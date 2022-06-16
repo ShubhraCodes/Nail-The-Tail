@@ -286,7 +286,7 @@ main .side-controls--container span.none {display: none;}
   height: 100%;
   width: 100%;
   margin: auto;
-  background-size: contain;
+  background-size: 90%;
   background-repeat: no-repeat;
   background-position: center;
   transition: all 0.5s;
